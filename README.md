@@ -49,4 +49,4 @@ java detpalindromo.DetPalindromo
 
 ## Autor
 Galileo Villegas Sánchez
-TSU en Desarrollo de Software Multiplataforma, UTHH
+
